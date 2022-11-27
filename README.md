@@ -1,6 +1,6 @@
-# Hooks Public Testnet + Documentation
+# Hooks Public Mainnet + Documentation
 
-Please see [Hooks Testnet V2](https://hooks-testnet-v2.xrpl-labs.com/) for faucet + documentation + explorer + builder.
+Please see [Hooks Mainnet](https://hooks-mainnet.xrpl-labs.com/) for faucet + documentation + explorer + builder.
 
 # The XRP Ledger
 
